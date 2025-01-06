@@ -12,5 +12,3 @@ This project highlights the importance of a structured approach to data analysis
 This project not only showcases the technical skills required for data analysis but also emphasizes the importance of data-driven decision-making in healthcare. By leveraging data analytics, we can make significant strides in predicting and preventing heart disease, ultimately saving lives.
 
 Data_Source = heart-disease.csv from Kaggle.
-
-#DataScience #MachineLearning #DataAnalytics #Healthcare #HeartDisease #PredictiveModeling #DataVisualization #AI #BigData #LinkedIn
